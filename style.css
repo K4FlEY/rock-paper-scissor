@@ -1,0 +1,36 @@
+
+
+    body{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        background-color: rgb(25, 25, 25);
+        margin-top: 25vh;
+       text-align: center;
+       color: white;
+    }
+
+    button{
+        margin: 15px;
+        padding: 10px;
+        border-radius: 15px;
+        font-size: 15px;
+        text-align: left;
+        cursor: pointer;
+        border: 2px solid white;
+
+    }
+
+
+    button img{
+        height: 60px;
+        
+    }
+
+    .result{
+        font-size: 30px;
+        font-weight: bold;
+
+    }
+    .move{
+        height: 60px;
+    }
+    
